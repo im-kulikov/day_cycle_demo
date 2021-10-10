@@ -234,7 +234,7 @@ MonoBehaviour:
   time: 0
   start: 0.2
   noon: {x: 90, y: 0, z: 0}
-  length: 15
+  length: 60
   rate: 0
   sun: {fileID: 2823543870893102964}
   sunColor:
